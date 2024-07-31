@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="logo_android_text">Logo Android</string>
+    <string name="phone_number_talkback">Phone number</string>
+    <string name="feedback_hash_tag_talkback">Feedback hash tag</string>
+    <string name="email_address_talkback">Email address</string>
+</resources>
